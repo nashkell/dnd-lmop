@@ -1,4 +1,4 @@
-![]((https://imgur.com/a/XVH7Slw))
+![](/Resources/General/HERO_StartBox.jpeg)
 
 # JavaScript30 - 30 Day JavaScript Challenge
 
