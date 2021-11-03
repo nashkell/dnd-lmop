@@ -1,4 +1,4 @@
-![](https://javascript30.com/images/JS3-social-share.png)
+![](http:imgur.com/a/XVH7Slw)
 
 # JavaScript30 - 30 Day JavaScript Challenge
 
