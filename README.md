@@ -1,17 +1,21 @@
 ![](/Resources/General/HERO_StartBox.jpeg)
 
-# JavaScript30 - 30 Day JavaScript Challenge
+# D&D: Lost Mines of Phandelver
 
-Buddy Harris, Designer turning Developer
-First Commit Date: March 21, 2018
-Last Commit Date: March 22, 2018
+First Commit Date: Nov 1, 2021
+Last Commit Date: Nov 2, 2021
 
-> Course created by [Wes Bos](https://github.com/wesbos)
-> Join the challenge (for free!) here - [JavaScript30](https://javascript30.com/account)
+> Join the [DnD Beyond Campaign](https://ddb.ac/campaigns/join/22728393552644687)
 
-This repository contains my explorations and notes for the JavaScript30 course by
-  [Wes Bos](//github.com/wesbos). I hope this helps me as a developer to enhance my current skillset and reduce any reliance on external JS libraries; **if it can be done with a JS library,
-  it can (probably) be done with vanilla JS.** Keeping my learning process in mind I wrote these as both a reference, and a way to build the repetitive muscle memory via practice. I hope someone may find these helpful/useful and can relate to my learning process.
+Your fateful story takes place in the [Forgotten Realms](/Atlas/ForgottenRealms.md)
+
+More than five hundred years ago, clans of dwarves and gnomes made an agreement known as the Phandelver’s Pact, by which they would share a rich mine in a wondrous cavern known as Wave Echo Cave. In addition to its mineral wealth, the mine contained great magical power. Human spellcasters allied themselves with the dwarves and gnomes to channel and bind that energy into a great forge (called the Forge of Spells), where magic items could be crafted. Times were good, and the nearby human town of Phandalin (pronounced fan-duh-lin) prospered as well. But then disaster struck when orcs swept through the North and laid waste to all in their path.
+
+A powerful force of orcs reinforced by evil mercenary wizards attacked Wave Echo Cave to seize its riches and magic treasures. Human wizards fought alongside their dwarf and gnome allies to defend the Forge of Spells, and the ensuing spell battle destroyed much of the cavern. Few survived the cave-ins and tremors, and the location of Wave Echo Cave was lost.
+
+For centuries, rumors of buried riches have attracted treasure seekers and opportunists to the area around Phandalin, but no one has ever succeeded in locating the lost mine. In recent years, people have resettled the area. Phandalin is now a rough-and-tumble frontier town. More important, the Rockseeker brothers — a trio of dwarves — have discovered the entrance to Wave Echo Cave, and they intend to reopen the mines.
+
+Unfortunately for the Rockseekers, they are not the only ones interested in Wave Echo Cave. A mysterious villain known as the Black Spider controls a network of bandit gangs and goblin tribes in the area, and his agents have followed the Rockseekers to their prize. Now the Black Spider wants Wave Echo Cave for himself, and he is taking steps to make sure no one else knows where it is.
 
 **DISCLAIMER:** My approach to the challenges follows along with Wes' provided answers (found in
   the files that end with `-FINISHED` on the main repo). I try to provide thorough comments and explanations when I iterate through what Wes teaches. 
