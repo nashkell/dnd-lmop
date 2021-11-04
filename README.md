@@ -9,16 +9,27 @@ Last Commit Date: Nov 2, 2021
 
 Your fateful story takes place in the [Forgotten Realms](/Atlas/ForgottenRealms.md)
 
+## History
+
 More than five hundred years ago, clans of dwarves and gnomes made an agreement known as the Phandelver’s Pact, by which they would share a rich mine in a wondrous cavern known as Wave Echo Cave. In addition to its mineral wealth, the mine contained great magical power. Human spellcasters allied themselves with the dwarves and gnomes to channel and bind that energy into a great forge (called the Forge of Spells), where magic items could be crafted. Times were good, and the nearby human town of Phandalin (pronounced fan-duh-lin) prospered as well. But then disaster struck when orcs swept through the North and laid waste to all in their path.
 
 A powerful force of orcs reinforced by evil mercenary wizards attacked Wave Echo Cave to seize its riches and magic treasures. Human wizards fought alongside their dwarf and gnome allies to defend the Forge of Spells, and the ensuing spell battle destroyed much of the cavern. Few survived the cave-ins and tremors, and the location of Wave Echo Cave was lost.
 
 For centuries, rumors of buried riches have attracted treasure seekers and opportunists to the area around Phandalin, but no one has ever succeeded in locating the lost mine. In recent years, people have resettled the area. Phandalin is now a rough-and-tumble frontier town. More important, the Rockseeker brothers — a trio of dwarves — have discovered the entrance to Wave Echo Cave, and they intend to reopen the mines.
 
-Unfortunately for the Rockseekers, they are not the only ones interested in Wave Echo Cave. A mysterious villain known as the Black Spider controls a network of bandit gangs and goblin tribes in the area, and his agents have followed the Rockseekers to their prize. Now the Black Spider wants Wave Echo Cave for himself, and he is taking steps to make sure no one else knows where it is.
+## Location
+### Neverwinter
+![](/Resources/Locations/NeverwinterHarbor.jpeg)
 
-**DISCLAIMER:** My approach to the challenges follows along with Wes' provided answers (found in
-  the files that end with `-FINISHED` on the main repo). I try to provide thorough comments and explanations when I iterate through what Wes teaches. 
+>Neverwinter is a friendly city of craftsmen, who trade extensively via the great merchants of Waterdeep; their water-clocks and multi-hued lamps can be found throughout the Realms. Neverwinter gained its name from the skill of its gardeners, who contrived to keep flowers blooming throughout the months of snow—a practice they continue with pride.
+> - Elminster's notes on Neverwinter
+
+Neverwinter stands on the northern Sword Coast, on the High Road between Waterdeep and Luskan, specifically between Leilon and Port Llast. To the east lay the Neverwinter Wood and, at its heart, the volcanic Mount Hotenow. The Neverwinter River was heated by fire elementals living under the volcano before flowing through the forest and the city. It carried its supernatural warmth with it, keeping the river from freezing up in winter and the gardens green year-round. The heat given off by the river created a permanent warm climate in the immediate area.
+
+Southeast of Neverwinter stood the monastery of Helm's Hold.
+
+Neverwinter, also known as the City of Skilled Hands and the Jewel of the North, was a bustling, cultured, and cosmopolitan city-state in northwest Faerûn. Neverwinter was regarded by Volo as the most cosmopolitan and civilized city in all of Faerûn. The city was a member in good standing of the Lords' Alliance.Known for its craftsfolk and gardeners, the city's multi-colored-glass lamps, precision water clocks, exquisite jewelry, and magnificent gardens ensured the warm winters were colorful and the summers were rich with fresh fruit.
+
 
 ## About
 
