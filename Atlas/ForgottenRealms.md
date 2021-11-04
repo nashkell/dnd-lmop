@@ -1,5 +1,7 @@
 > [Home](/README.md)  |  [Atlas](/Atlas/)  |  Forgotten Realms
-> 
+
+![](/Resources/Locations/ForgottenRealms.jpg)
+
 # The Forgotten Realms
 
 The world of the Forgotten Realms is one such setting, and that’s where the story in this adventure takes place. In the Realms, knights dare the crypts of the fallen dwarf kings of Delzoun, seeking glory and treasure. Rogues prowl the dark alleyways of teeming cities such as Neverwinter and Baldur’s Gate. Clerics in the service of gods wield mace and spell, questing against the terrifying powers that threaten the land. Wizards plunder the ruins of the fallen Netherese empire, delving into secrets too dark for the light of day. Dragons, giants, demons, and unimaginable abominations lurk in dungeons, caverns, ruined cities, and the vast wild places of the world.
