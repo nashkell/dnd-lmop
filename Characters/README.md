@@ -1,3 +1,5 @@
+> [Home](/README.md)  |  Characters
+> 
 ![](/Resources/General/HERO_characters.jpeg)
 
 # Characters
