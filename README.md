@@ -7,9 +7,12 @@ Last Commit Date: Nov 2, 2021
 
 > Join the [DnD Beyond Campaign](https://ddb.ac/campaigns/join/22728393552644687)
 
-Your fateful story takes place in the [Forgotten Realms](/Atlas/ForgottenRealms.md)
+## ToC
 
-## History
+Your fateful story takes place in the [Forgotten Realms](/Atlas/ForgottenRealms.md)
+---
+
+## Introduction
 
 Southeast of city of Neverwinter, More than five hundred years ago, clans of dwarves and gnomes made an agreement known as the Phandelver’s Pact, by which they would share a rich mine in a wondrous cavern known as Wave Echo Cave. In addition to its mineral wealth, the mine contained great magical power. Human spellcasters allied themselves with the dwarves and gnomes to channel and bind that energy into a great forge (called the Forge of Spells), where magic items could be crafted. Times were good, and the nearby human town of Phandalin (pronounced fan-duh-lin) prospered as well. But then disaster struck when orcs swept through the North and laid waste to all in their path.
 
