@@ -10,6 +10,7 @@
 * [Adventure Logs](/Adventure%20Logs/README.md)
 * [Locations](/Atlas/README.md)
 * [NPCs](/NPCs/README.md)
+
 _ToC will be updated as we play the game_
 
 ## TLDR
