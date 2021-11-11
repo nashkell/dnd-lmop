@@ -27,7 +27,6 @@ This guide is for new players. Dungeons and Dragons is fun, but can be seen as s
       - [Attacking](#attacking)
       - [Defending](#defending)
       - [Death](#death)
-      - [Experience Points and Levels](#experience-points-and-levels)
   - [Other Resources 📚](#other-resources-)
       - [Official](#official-1)
       - [Unofficial](#unofficial)
@@ -219,14 +218,6 @@ If a player's HP drops below 0, they have suffered a mortal wound and can no lon
 The other players are responsible for dragging the corpse along for the rest of the quest until it can be revived, if they so choose.
 
 Players are encouraged to roll a back-up character in the event they want to continue playin in the current session.
-
-#### Experience Points and Levels
-
-After winning a combat round or complete a quest, players are rewarded with **Experience Points (XP)**. When a player gets enough  XP, they increase their level by one.
-
-Levelling up gives a player **two +1 points** to improve their abilities of their choosing, and adds **6 + CON** to that player's Hit Points. They don't immediately heal to full health, but they do get the new hit points.
-
-XP is **cumulative**, and levelling up happens at _300, 900, 2700, 6500, 14000, 23000, 34000, 48000, 64000, 85000, 100000, 120000, 140000, 165000, 195000, 225000, 265000, 305000 and 355000_ points.
 
 <!-- ## Dungeon Mastering 🐉
 _TL;DR: Make your players have as much fun as possible by being kind of a dick to them._
