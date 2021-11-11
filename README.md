@@ -1,6 +1,6 @@
 ![](/Resources/General/HERO_StartBox.jpeg)
 
-# D&D: Lost Mines of Phandelver
+# D&D: Lost Mines of Phandelver ![0.0.1](https://img.shields.io/badge/version-0.0.1-brightgreen.svg)
 
 First Commit Date: Nov 1, 2021
 Last Commit Date: Nov 2, 2021
