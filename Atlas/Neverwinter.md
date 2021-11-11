@@ -1,4 +1,4 @@
-> [Home](/README.md)  |  [Atlas](/Atlas/)  |  Forgotten Realms
+> [Home](/README.md)  |  [Atlas](/Atlas/)  |  City of Neverwinter
 
 ![](/Resources/Locations/NeverwinterHarbor.jpeg)
 
