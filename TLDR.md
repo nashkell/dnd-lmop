@@ -10,15 +10,9 @@ This guide is for new players. Dungeons and Dragons is fun, but can be seen as s
 ## Table of Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-- [DnD: TL;DR !0.1.2 [![](https://img.shields.io/badge/print-PDF-brightgreen.svg)](https://gitprint.com/Miserlou/dnd-tldr/blob/master/README.md) [![](https://img.shields.io/badge/license-CC.BY.SA-brightgreen.svg)](https://creativecommons.org/licenses/by-sa/4.0/legalcode)](#dnd-tldr---)
-  - [A Fast and Loose Guide to Dungeons and Dragons](#a-fast-and-loose-guide-to-dungeons-and-dragons)
-    - [by Rich Jones](#by-rich-jones)
-  - [Table of Contents](#table-of-contents)
-  - [Requirements](#requirements)
   - [Basic Overview](#basic-overview)
-      - [Rules](#rules)
-      - [Mechanics](#mechanics)
       - [Goals](#goals)
+      - [Mechanics](#mechanics)
   - [Making Characters 👫](#making-characters-)
     - [Race](#race)
     - [Class](#class)
@@ -34,77 +28,44 @@ This guide is for new players. Dungeons and Dragons is fun, but can be seen as s
       - [Defending](#defending)
       - [Death](#death)
       - [Experience Points and Levels](#experience-points-and-levels)
-  - [Dungeon Mastering 🐉](#dungeon-mastering-)
-      - [Speed](#speed)
-      - [Adjusting Play](#adjusting-play)
-    - [Premade Campaigns](#premade-campaigns)
-      - [Official](#official)
-      - [Fan-made](#fan-made)
-    - [Making Your Own Campaigns](#making-your-own-campaigns)
   - [Other Resources 📚](#other-resources-)
       - [Official](#official-1)
       - [Unofficial](#unofficial)
   - [Improving this Guide 🔀](#improving-this-guide-)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Requirements
-_TL;DR: Friends, a printer, some PDFs, some pens, hecka beers._
-
-* 2-4 **players** + 1 **Dungeon Master** 👨👩👨👩
-* **Pen and paper** for each player 📝📝📝📝
-* A set of **game dice** for each player 🎲🎲🎲🎲
-   * Or, use your phone. You can say "Siri, roll a D20" to an iPhone and it works.
-* 4-6 **beers** per player 🍺🍺🍺🍺
-* **Speakers** for playing [epic background music](http://tabletopaudio.com/) 🔈
-* Costumes/Hats (Optional)
-	* The game is more fun if you all get into character with dorky hats.
 
 ## Basic Overview
 
 _TL;DR: Invent a character, explore a fantasy world, talk to the people living there, fight crazy monsters, acquire plunder and glory, roll dice, drink beers, yell at your friends and have fun._
 
-Dungeons and Dragons is a fantasy role playing game. The game is played by 2-4 **player characters**, who play as adventurers exploring a world, and one **Dungeon Master**, who controls the context of the adventure and plays as the **non-player characters** and **monsters**.
+Dungeons and Dragons is a fantasy role playing game. The game is played by 4-6 **player characters**, who play as adventurers exploring a world, and one **Dungeon Master**, who controls the context of the adventure and plays as the **non-player characters** and **monsters**.
 
-#### Rules
+Creativity and ingenuity are rewarded. The players will be placed into challenging situations, (such as fighting an army of monsters, discovering and deciphering mysterious clues, and interrogating, seducing and deceiving non-player characters), and will have to use their imaginations to devise ways to overcome those challenges.
 
-There are very few rules to the game, so creativity and ingenuity are rewarded. The players will be placed into challenging situations, (such as fighting an army of monsters, discovering and deciphering mysterious clues, and interrogating, seducing and deceiving non-player characters), and will have to use their imaginations to devise ways to overcome those challenges.
+#### Goals
+
+The goal of the game is simply to play the game, because it is fun!
+
+Generally, the Dungeon Master is trying to steer you onto a fun quest, but ultimately, it's all up to you. Want to start a peasant revolt against the evil king? Go ahead! Want to turn a dragon into your pet and become the ruler of the land? Roll for it! Want to start a seedy brothel? Uh, sure!
+
+The only limits are your imagination and the rolls of dice. Have fun!
 
 #### Mechanics
 
 The primary mechanic of the game is the roll of a 20-sided dice known as a **D20**. Players state what they want to do (for instance, _"I want to use the rope to swing across the chasm"_), and then roll a D20. 
 
-The Dungeon Master decides to themself how difficult that task is (out of 20), and if the dice scores higher than that number then the player succeeds, and if not then they fail. The Dungeon Master then narrates the result of the action (_"You try to swing across the gaping chasm, but your grip slips half-way across, and you fall to the canyon floor. You take two damage. You see glowing eyes in the darkness."_)
+The Dungeon Master decides themselves how difficult that task is (out of 20), and if the dice scores higher than that number then the player succeeds, and if not then they fail. The Dungeon Master then narrates the result of the action (_"You try to swing across the gaping chasm, but your grip slips half-way across, and you fall to the canyon floor. You take two damage. You see glowing eyes in the darkness."_)
 
-Natural rolls of 1 and 20 result in spectacular failures and success, respectively.
-
-#### Goals
-
-The goal of the game is simply to play the game, because it is fun! 
-
-Generally, the Dungeon Master is trying to steer you onto a fun quest, but ultimately, it's all up to you. Want to start a peasant revolt against the evil king? Go ahead! Want to turn a dragon into your pet and become the ruler of the land? Roll for it! Want to start a seedy brothel? Uh, sure! 
-
-The only limits are your imagination and the rolls of dice. Have fun!
+Natural rolls of 1 and 20 result in spectacular failures and success, respectively. These will be narrated accordingly.
 
 ## Making Characters 👫
-_TL;DR: Choose a character type. Print a [premade sheet](character_sheets/). In a pinch, pretend to be Han Solo or Darth Vader but as a Lord of the Rings character._
+_TL;DR: Choose a character type. Print a [premade sheet](/Characters/README.md). In a pinch, pretend to be Han Solo or Darth Vader but as a Lord of the Rings character._
 
 <!--Character creation is the longest, most confusing and most boring part of the game for new players. We're going to skip all of the pointless parts and just get to the good stuff.-->
 
-Every player besides the Dungeon Master needs to create a character. This will be something like _Riceak Beestinger, Chaotic Gnomish Druid_, or _Hollyatra Gellantara, Lawful Human Paladin_.
-
-Each player will need to choose a **race**, a **class**, an **alignment**, and a **name**. Then, print the character sheet for that combination from the [PDFs in this repository, linked below](character_sheets/). Choose a combination that you think will be fun to play as.
+Every player besides the Dungeon Master needs to create a character. Each player will need to choose a [**race**](#race), a [**class**](#class), an [**alignment**](#alignment), and a [**name**](#name). This will be something like _Riceak Beestinger, Chaotic Gnomish Druid_, or _Hollyatra Gellantara, Lawful Human Paladin_. Choose a combination that you think will be fun to play as.
 
 You'll probably want to make sure that your party has good a balance of skills and personalities. _You can't all be Han Solo!_
-
-If you're super lazy, just use these characters for your party, which should suit any starting campaign:
-
-* [Half-Orc Barbarian](character_sheets/half-orc_barbarian.pdf)
-* [Human Cleric](character_sheets/human_cleric.pdf)
-* [Elven Ranger](character_sheets/elf_ranger.pdf)
-* [Tiefling Rogue](character_sheets/tiefling_rogue.pdf) 
-
-Players can do this themselves before the session starts to save time, or the DM can just print out a bunch of the archetypical character types for players to choose from, or you can print them on demand. A [combined PDF](character_sheets/default_party/default_party.pdf) of the default party is also provided.
 
 ### Race
 _TL;DR: What do you look like?_
@@ -128,6 +89,9 @@ Choose one:
 | Human        | Regular | You know what humans are |
 | Half-Orc        | Tall | Savage |
 | Dragonborn       | Taller | Scales, tough |
+| Aarakocra       | Short | Feathers, Can fly |
+| Harengon       | Small | Hugh Jackman as a Hare |
+| Warforged       | Regular | If Data and Robocop had a baby |
 
 ### Class
 _TL;DR: What can you do?_
@@ -166,17 +130,17 @@ Again, choose one you think would be fun:
 
 ### Name
 
-Finally, make a name. A good DM will enforce that you call all the other players by their character names, so **make sure yours is funny**. Try a dick or poop joke here.
+Finally, make a name. A good DM will enforce that you call all the other players by their character names.
 
 Alternately, you can just use this [character name generator](https://www.wizards.com/dnd/article5.asp?x=dnd/dx20010202b) and see what happens.
 
 ### Character Sheets
 
-Now that you've chosen your **race**, **class**, **alignment** and **name**, find the right **character sheet** for that combination of race and class in [this directory](/character_sheets) and print it out. This is yours now. Fill in your alignment and name at the top, then read over the sheet. You'll see that you already have your stats calculated and a list of weapons and items in your inventory that you'll start the game with. Hooray!
+Now that you've chosen your **race**, **class**, **alignment** and **name**, please follow the link to our campaign [DnDBeyond](https://www.dndbeyond.com/) and create a free account to generate your character. It is a fully intuitive character builder and very robust character sheet. This character sheet will also link up to our discord server. You can get the link from the **_weblinks_** channel.
 
 #### Important Numbers
 
-On your sheet, there are a few important numbers (and some unimportant ones that we're going to ignore). **Hit Points (HP)**, which are how much damage you can take before you die, **Armour Class (AC)**, which is how well you are defended against enemy blows, and six **ability modifiers**, which are numbers added to your rolls for certain tasks. They correspond to:
+On your sheet, there are a few important numbers. **Hit Points (HP)**, which are how much damage you can take before you die, **Armour Class (AC)**, which is how well you are defended against enemy blows, and six **ability modifiers**, which are numbers added to your rolls for certain tasks. They correspond to:
 
 | Ability    | Meaning | Modifies |
 |:------------- |:----------------|:-------------|
@@ -196,9 +160,7 @@ Hit Points are:-->
 ## Gameplay 🎲
 _TL;DR: Just roll a D20 and see what happens._
 
-Okay! Now you're ready to play. The Dungeon Master is going to read a little narative exposition, then you're off!
-
-Choose the player with the highest Speed value on their sheet to go first. Players then take turns interacting with the world, passing to the left after their turn is over. If the turn passes to the Dungeon Master while there are enemy monsters in play, the Dungeon Master plays a turn for each of those monsters before passing again.
+Okay! Now you're ready to play. Before your first game the Dungeon Master is going to read a little narative exposition, then you're off!
 
 There are three pillars to gameplay: **exploration** of the game world, **interaction** with non-player characters, and **combat** with monsters.
 
@@ -216,15 +178,15 @@ Exploration is the primary mechanic when there are no non-player characters or m
 * Starting fires and other diversions
 
 ### Interaction 💬
-_TL;DR: Use disguises and sexuality to acquire information._
+_TL;DR: Use disguises and charisma to acquire information._
 
 Eventually, players will encounter **non-player characters**. These might be guards, townsfolk, nobility, evil generals, holy spirits or anything else. Generally, they will have some information for the players that they'll need to acquire somehow. This isn't always easy, and often involves the use of:
 
-* Sexual seduction
 * Threats of violence
 * Disguise, forgery, trickery and slight-of-hand
 * Bribery
 * Kidnapping, interrogation, and torture
+* Seduction
 * Navigating racial discrimination and crossing language barriers
 
 ### Combat ⚔
@@ -233,8 +195,6 @@ _TL;DR: Roll a D20 to see if you hit or not, then roll another dice to see how m
 At some point, players will encounter **violent monsters**. There are no limits to how they can interact with those monsters, but there are rules for melee (sword-type), ranged (bow-type) and magic combat.
 
 As a rule of thumb, a player's turn represents about **10 seconds** of elapsed game time. So, if a player wants to climb a ladder, untie a rope and swing into a monster, that would take successful rolls across three turns.
-
-The Dungeon Master should try to keep track of the general positions of the players and the monsters so that they can only hit each other if they're close to each other. Generally though, they shouldn't be too strict about this and should just let the combat flow naturally.
 
 Combat strikes happen in two phases (in the same turn): rolls to hit, and rolls to deal damage.
 
@@ -246,7 +206,7 @@ The attack roll is a normal **D20 roll, plus the Attack bonus** (STR or DEX + Pr
 
 If the attack roll is a hit, then the player rolls another dice (listed on the character sheet for each weapon), and that number is subtracted from the monster's hit points. If resulting hit points are less than zero, then the monster dies.
 
-To spice up the combat, the Dungeon Master should narrate all attacks in explicit gory detail. **Natural 1s** and **natural 20s** should result in spectular self-inflicted wounds and damaging strikes, respectively.
+**Natural 1s** and **natural 20s** typically result in spectular self-inflicted wounds and damaging strikes, respectively.
 
 #### Defending
 
@@ -254,15 +214,11 @@ Defending is the same process as attacking, but in reverse. The Dungeon Master r
 
 #### Death
 
-If a player's HP drops below 0, they have suffered a mortal wound and can no longer attack. Give them a free roll to try to stuff their guts back in, or let other players take them out of immediate danger before they die completely. 
+If a player's HP drops below 0, they have suffered a mortal wound and can no longer attack. Each player will have three (3) turns to try to stuff their guts back in, or let other players take them out of immediate danger before they die completely. 
 
-Total death generally isn't very much fun for that player, so the Dungeon Master may choose to use divine inspiration to help that player out before or after they die. 
+The other players are responsible for dragging the corpse along for the rest of the quest until it can be revived, if they so choose.
 
-You can also introduce **ＤＥＡＴＨ** as a non-player character and have the player barter with ＤＥＡＴＨ in exchange for humiliating punishments, or challenge them to a game of "street craps", where you each throw all of your dice and count the number of pairwise wins.
-
-If a player dies completely, you can have them hang around as a ghost who has no items but can still gently interact with objects, and, if they roll exceptionally well, lightly posess nearby non-player characters. The other players are responsible for dragging the corpse along for the rest of the quest until it can be revived.
-
-If _all_ your players die, you can send them on the fan-made _**[Fires of Hell](https://olddungeonmaster.files.wordpress.com/2014/12/fires-of-hell-5e.pdf)**_ campaign, which lets the players fight their way out of Hell and back to your game world.
+Players are encouraged to roll a back-up character in the event they want to continue playin in the current session.
 
 #### Experience Points and Levels
 
@@ -272,7 +228,7 @@ Levelling up gives a player **two +1 points** to improve their abilities of thei
 
 XP is **cumulative**, and levelling up happens at _300, 900, 2700, 6500, 14000, 23000, 34000, 48000, 64000, 85000, 100000, 120000, 140000, 165000, 195000, 225000, 265000, 305000 and 355000_ points.
 
-## Dungeon Mastering 🐉
+<!-- ## Dungeon Mastering 🐉
 _TL;DR: Make your players have as much fun as possible by being kind of a dick to them._
 
 As a dungeon master, your job is to make the other players have as much fun as possible. 
@@ -320,7 +276,7 @@ I haven't done this yet. Advice welcome!
 
 A popular approach is to simply repurpose scenarios and characters from popular media. For instance, maybe take the plot of _Alien_ but replace the alien with a dragon. Or maybe have your adventureres go on the train-robbery mission from _Firefly_. You get the idea!
 
-There's also no reason why your quest has to be in a Tolkein-esque fantasy universe. Just port the characters into whatever type of world you want (steampunk and sci-fi worlds are pretty popular alternatives).
+There's also no reason why your quest has to be in a Tolkein-esque fantasy universe. Just port the characters into whatever type of world you want (steampunk and sci-fi worlds are pretty popular alternatives). -->
 
 ## Other Resources 📚
 
