@@ -5,12 +5,12 @@
 > Join the [DnD Beyond Campaign](https://ddb.ac/campaigns/join/22728393552644687)
 
 ## ToC
-*[DnD TL;DR](#tldr)
-*[Introduction](#introduction)
-*[Adventure Logs](/Adventure%20Logs/README.md)
-*[Locations](/Atlas/README.md)
-*[NPCs](/NPCs/README.md)
-> ToC will be updated as we play the game
+* [DnD TL;DR](#tldr)
+* [Introduction](#introduction)
+* [Adventure Logs](/Adventure%20Logs/README.md)
+* [Locations](/Atlas/README.md)
+* [NPCs](/NPCs/README.md)
+_ToC will be updated as we play the game_
 
 ## TLDR
 For a quick introduction to DnD please take a look through the [TLDR document](/TLDR.md).
