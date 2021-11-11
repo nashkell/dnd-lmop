@@ -5,7 +5,7 @@
 > Join the [DnD Beyond Campaign](https://ddb.ac/campaigns/join/22728393552644687)
 
 ## ToC
-* [DnD TL;DR](#tldr)
+* [DnD TL;DR](/TLDR.md)
 * [Introduction](#introduction)
 * [Adventure Logs](/Adventure%20Logs/README.md)
 * [Locations](/Atlas/README.md)
