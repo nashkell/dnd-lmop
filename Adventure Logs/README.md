@@ -1,3 +1,7 @@
+> [Home](/README.md)  |  Adventure Logs
+
+![](/Resources/General/scribe.jpeg)
+
 # Adventure Logs
 
 These will be updated as we play the game.
